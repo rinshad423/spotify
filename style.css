@@ -1,0 +1,214 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.829);
+    overflow-x: hidden;
+}
+
+.logo img {
+    width: 150px;
+}
+
+.main {
+    font-size: 23px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    line-height: 50px;
+    margin: 20px;
+    font-family: sans-serif;
+}
+
+
+.main i {
+    color: rgba(229, 228, 228, 0.61);
+}
+
+.logo {
+    background-color: black;
+    height: 620px;
+    width: 230px;
+    padding: 15px;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+
+}
+
+.kooi a {
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+    font-family: sans-serif;
+}
+
+.mob {
+    margin-top: 40px;
+}
+
+.logo a {
+    text-decoration: none;
+    margin-left: 10px;
+    color: rgba(238, 229, 229, 0.61);
+}
+
+.by {
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+.js {
+    align-items: center;
+
+}
+
+.kooi {
+    position: absolute;
+    top: 0;
+    left: 800px;
+    margin: 20px;
+
+}
+
+.kooi a {
+    font-size: 23px;
+}
+
+.hi i {
+    font-size: 40px;
+    position: absolute;
+    top: 0;
+    left: 300px;
+    margin: 20px;
+    color: rgba(255, 255, 255, 0.61);
+}
+
+.kooi button {
+    margin-left: 20px;
+    background-color: white;
+    padding: 10px;
+    width: 100px;
+    border: 0px;
+    border-radius: 40px;
+    position: relative;
+    left: 400px;
+    top: -30px;
+}
+
+.good h2 {
+    position: absolute;
+    top: 90px;
+    left: 300px;
+    color: white;
+}
+
+.main3 {
+    display: flex;
+    position: relative;
+    top: -440px;
+    left: 300px;
+    text-align: justify;
+}
+
+.main3 p {
+    color: w;
+}
+
+.good {
+    font-family: sans-serif;
+    color: white;
+    margin-top: 580px;
+}
+
+.main3 img {
+    width: 150px;
+}
+
+.css4 {
+    background-color: black;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid rgb(254, 254, 254);
+    position: relative;
+    left: -20px;
+    top: -30px;
+    margin-left: 20px;
+    margin: 10px;
+}
+
+.kl h2 {
+    position: absolute;
+    top: 480px;
+    left: 300px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.the {
+    font-family: sans-serif;
+    display: flex;
+    text-align: justify;
+    position: relative;
+    left: 300px;
+    top: -400px;
+    width: 900px;
+    margin: 3px;
+}
+
+.hy {
+    color: white;
+}
+
+.hy img {
+    width: 150px;
+}
+
+.font {
+    font-family: sans-serif;
+    display: flex;
+    color: white;
+    position: relative;
+    left: 300px;
+    top: -350px;
+    text-align: justify;
+}
+
+
+.nv {
+    font-family: sans-serif;
+    color: white;
+    position: relative;
+    left: 300px;
+    top: -390px;
+
+}
+
+.font img {
+    width: 150px;
+}
+
+.free {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to right, rgba(4, 149, 150, 1) 0%, rgba(0, 48, 255, 1) 100%);
+    padding: 15px 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.free p,
+h5 {
+    font-family: sans-serif;
+}
+
+.free button {
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    border: 0px;
+}
